@@ -1,0 +1,218 @@
+body{
+    background-color:#212121;
+   height: 100%;
+   
+}
+img{
+    width: 20px;
+    height: 20px;
+}
+.hamburger{
+    width: 20px;
+    height:15px;
+    padding-top: 0px;
+}
+.youtube-icon{
+    padding-left: 5px; 
+    width: 50px;
+}
+.header-section{
+    display: flex;
+    flex-direction: row;
+    background-color: #212121;
+}
+.search-container{
+    margin-left:380px;
+    display: flex;
+    flex-direction: row;
+}
+input{
+    color: white;
+    background-color: #121212;
+    border: 1px solid #121212 ;
+    height: 21px;
+    width: 190px;
+}
+.h{
+    background-color: #1f1e1e;
+}
+.rightheader-icon{
+    margin-left: 350px;   
+}
+.grid-icon{
+    padding-left: 20px;
+}
+.notification-icon{
+    padding-left: 20px;
+}
+.logo{
+    position: fixed;
+}
+.profile-icon{
+    margin-left: 20px;
+    border-radius: 50%;
+}
+.mic-icon{
+    position: static;
+    background-color: black;
+    width: 25px;
+    height: 25px;
+    padding-left: 5px;
+    border-radius: 50%;
+}
+.search-image{
+    background-color:  #333232;
+    width: 29px;
+    height: 21px;
+    padding-left:4px;
+    padding-top: 2px;
+}
+hr{
+    width: 939px;
+    margin-left: 300px;
+}
+p{
+    color: white;
+    font-size: 14px;
+    margin-left: 5px;
+    margin-top: 3px;
+}
+.Home{
+    display: flex;
+    flex-direction: row;
+}
+.samecss-icon{
+    width: 24px;
+    height: 24px;
+    margin-top: 0px;
+}
+.explore{
+    display: flex;
+    flex-direction: row;
+}
+.explore-icon{
+    width: 24px;
+    height: 24px;
+    margin-top: 0px;
+}
+.subscription{
+    display: flex;
+    flex-direction: row;
+    
+}
+.menus{
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    
+}
+.hrr{
+    margin-left: 0px;
+    width: 160px;
+}
+.library{
+    display: flex;
+    flex-direction: row;
+}
+.sidebar{
+    width: 190px;
+    height:100%;
+    overflow: scroll;
+}
+.all{
+    width: 40px;
+    height: 19px;
+    border-radius: 9px;
+    border: 1px solid rgb(105, 98, 98);
+    margin-left: 20px;
+    padding-bottom: 3px;
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    height: 33px;  
+}
+.leftside-menus{
+    display: flex;
+    flex-direction: row;
+    padding-left: 20px;
+    position:relative;
+}
+.overflowicon{
+   margin-left: 0px;
+   padding-top:3px;
+}
+.overflow{
+    background-color: #685e5e;
+    width: 20px;
+    height: 25px;
+}
+.column{
+    display: flex;
+    flex-direction: column;
+    height: fit-content;
+    margin-left: 200px;
+    z-index: -2;  
+}
+.icons{
+    width: 227px;
+    height: 175px;
+}
+.thumb-image{
+    margin-top:20px;
+    margin-left: 20px;
+
+}
+.thumb-container{
+    background-color: black;
+    display: flex;
+    
+    
+}
+.thumb-container2{
+    display: flex;
+    flex-direction: row;
+}
+.div-box{
+    display: flex;
+    flex-direction: column;
+}
+.image-storage{
+    display: flex;
+    flex-direction: row;
+}
+.profiles{
+     display: flex;
+    flex-direction: row;
+}
+.Avatars{
+    margin-left:20px;
+    width: 30px;
+    height: 35px;
+    border-radius: 50%;
+}
+.user-description{
+    display: flex;
+    flex-direction: column;
+}
+.bold{
+    color: rgb(131, 126, 126);
+    padding-top: 200px;
+    margin-top: 10px;
+}
+.profile-container{
+    display: flex;
+    flex-direction: row;
+}
+.user-container2{
+    display: flex;
+    flex-direction: row;
+    margin-left: 20px;
+}
+.user-container1{
+    display: flex;
+    flex-direction: row;
+    margin-left: 30px;
+}
